@@ -20,4 +20,4 @@
   /></a>
 </p>
 
-- 🏢 I'm a FrontEnd student at Almadrsa - 👨‍💻 As
+- 🏢 I'm a FrontEnd student at Almadrsa - 👨‍💻 
